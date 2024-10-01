@@ -1,0 +1,45 @@
+{
+  "name": "react-dev",
+  "version": "1.0.0",
+  "description": "My react learning",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamshi-R/react-dev.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "learning"
+  ],
+  "author": "Vamshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vamshi-R/react-dev/issues"
+  },
+  "homepage": "https://github.com/Vamshi-R/react-dev#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
